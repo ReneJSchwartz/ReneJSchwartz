@@ -1,4 +1,4 @@
- Working on [Astro Battlers TD](https://store.steampowered.com/app/1728980/Astro_Battlers_TD/)) 🤩
+ Working on [Astro Battlers TD](https://store.steampowered.com/app/1728980/Astro_Battlers_TD/) 🤩
  
  I'm looking for work. Hit me up!
 
