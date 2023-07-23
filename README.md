@@ -1,9 +1,9 @@
- Working on Astro Battlers TD 🤩 1155 commits and going up
+ Working on Astro Battlers TD 🤩
  
- I'm also looking for additional work. Hit me up!
+ I'm looking for work. Hit me up!
 
 - 👀 I’m interested in game dev, web dev, software dev
-- 🌱 Currently learning mobile game dev, entrepeneurship, and web dev, finishing projects 😅
-- 💯 Connect with me in LinkedIn or other social medias, let's help each other network❕
+- 🌱 Currently learning ASP.Net Core, Unreal Engine
+- 💯 Connect with me in [LinkedIn](https://www.linkedin.com/in/rene-schwartz-732a8649/) and elsewhere, let's help each other network❕
 
-I use GitLab for private projects not GitHub. GitLab user: [Rene_](https://gitlab.com/Rene_). Even then I do mainly closed source for my projects, sorry.
+I use [GitLab](https://gitlab.com/Rene_) for closed source commercial projects.
