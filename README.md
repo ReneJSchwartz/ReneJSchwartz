@@ -6,4 +6,4 @@ I'm looking for commercial opportunities, employment, and collaboration. Let's h
 - 💯 Connect with me on [LinkedIn](https://www.linkedin.com/in/rene-schwartz-732a8649/) or [Discord](https://discordapp.com/users/118129453200179207)
 - ⚓ I'm all about game-, web- and software development and related skill sets.
 
-[My GitLab](https://gitlab.com/Rene_).
+[My GitLab](https://gitlab.com/Rene_)
