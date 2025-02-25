@@ -8,4 +8,4 @@ I've programmed [Astro Battlers TD](https://store.steampowered.com/app/1728980/A
 
 [My GitLab](https://gitlab.com/Rene_) that has couple dozen closed source projects. 
 
-Please check Phaser Roguelike for a public code sample. 
+Please check [Phaser Roguelike](https://github.com/ReneJSchwartz/phaser-roguelike) for a public code sample. 
