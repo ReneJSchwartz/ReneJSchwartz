@@ -10,4 +10,4 @@ I've programmed [Astro Battlers TD](https://store.steampowered.com/app/1728980/A
 
 Please check [Phaser Roguelike](https://github.com/ReneJSchwartz/phaser-roguelike) for a public code sample using TS, while the UE GAS code might interest the UE folk. My main strength lies in Unity and general programming and problem solving ability. 
 
-The gap in my contribution chart is due to working as a full time programmer.
+The gap in my contribution chart in 2024 is due to working as a full time programmer.
