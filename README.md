@@ -8,4 +8,4 @@ I've programmed [Astro Battlers TD](https://store.steampowered.com/app/1728980/A
 
 [My GitLab](https://gitlab.com/Rene_) that has couple dozen closed source projects. The gap in my contribution chart in 2024 is due to working as a full time programmer.
 
-Please check [Phaser Roguelike](https://github.com/ReneJSchwartz/phaser-roguelike) for a public code sample using TS, while the UE GAS code might interest the UE folk. My main strength lies in Unity and general programming and problem solving ability. Recently I've used Godot due to the lightweight nature. This enables me to code games anywhere with a low spec laptop.
+Please check [Phaser Roguelike](https://github.com/ReneJSchwartz/phaser-roguelike) for a public code sample using TS, while the UE GAS code might interest the UE folk. I don't really believe in open source development for a living, lol. My main strength lies in Unity engine and strong programming and problem solving ability. Recently I've used Godot due to its lightweight nature. This enables me to code games anywhere with a low spec laptop.
